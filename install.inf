@@ -1,0 +1,12 @@
+[info]
+title=JS Sort Imports
+desc=Sorts import-lines in JavaScript code
+type=cudatext-plugin
+subdir=cuda_js_sort_imports
+homepage=
+
+[item1]
+section=commands
+caption=JS Sort Imports
+method=run
+lexers=JavaScript
